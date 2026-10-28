@@ -1,0 +1,6 @@
+{
+  "name": "Skill War - Free Fire Tournament",
+  "description": "Premium esports tournament platform for Free Fire Max featuring live matches, instant wallet deposits, room credentials, and prize payouts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
